@@ -2,13 +2,8 @@
 title:  'Mikko Viitamäki'  
 tags: [cv, resume]
 abstract: 'Story of my professional life'
+footer: 'iam footer'
 ...
-<!-- 
-::: {.container}
-Mikko Viitamäki
-================ -->
-
-::: {#about}
 
 ----
 
@@ -20,11 +15,8 @@ Mikko Viitamäki
 
 ----
 
-:::
-
 Experience
 -----------
-
 **4.2.2013 - Enics Oy, Vantaa/Lohja, Senior Test Engineer**
 
 Software development for test data collection system. Store and analyze
@@ -74,15 +66,13 @@ international clients. I also gave some product training.
 
 Summer trainee in a crosery wholesale.
 
+\pagebreak
 
-:::
-
-::: {#education}
 Education and courses
------------------------
+-----------------------------------
 
 *1999-2005 Kymenlaakso University of Applied Sciences, B.Sc from
-Eletronics*\
+Eletronics*
 
 -   2017 Göpel partner days, Jena, Saksa
 -   2016 Göpel\'s Embedded JTAG solutions -kurssi, Jena, Saksa
@@ -93,11 +83,9 @@ Eletronics*\
 -   2002 User manual and technical documentation, Rastor Oy, Vantaa
 -   1999 Military Service, Utti
 -   1998 Finnish Matriculation Examination, Hyrylän lukio
-:::
 
-::: {#tools}
 Programming and IT skills
--------------------------------
+----------------------------------------
 
 Familiar with Mac OS X, Ubuntu Linux and Windows XP/7. Some knowledge of
 embedded systems and embedded Linux, such as Buildroot, OpenWrt and Raspbian as
@@ -119,7 +107,7 @@ I have used several development tools ia:
 -   AVR Studio IDE
 
 Programming skills:
---------------------
+-------------------------------
 
 -   C\# \[intermediate\] .NET, ASP.NET, Entity Framework
 -   Python \[intermediate\]
@@ -128,7 +116,6 @@ Programming skills:
 -   Java \[basics\]
 -   Pascal \[basics\]
 -   HTML, CSS and javascript\[basics\]
-:::
 
 Languages:
 -------------

@@ -4,10 +4,6 @@ tags: [cv, resume]
 abstract: 'Story of my proffessional life'
 ...
 
-<!-- 
-::: {.container}
-Mikko Viitamäki
-================ -->
 
 ----
 
@@ -20,9 +16,7 @@ Mikko Viitamäki
 ----
 
 Työkokemus
------------------
-
-
+--------------------
 **4.2.2013 - Enics Oy, Vantaa/Lohja, Senior Test Engineer**
 
 -   Testaustiedonkeruujärjestelmän kehitys ja ylläpito.
@@ -68,11 +62,10 @@ sekä työhönohjaus.
 
 Elintarvikkeiden varastointi ja keräily.
 
-:::
+\pagebreak
 
-::: {#education}
 Koulutus ja kurssit
---------------------
+--------------------------------
 
 *1999-2005 Kymenlaakson Ammattikorkeakoulu, Elektroniikan insinööri.
 Elektroniikan koulutusohjelma, pääaineena elektroniikan
@@ -87,11 +80,9 @@ tuotantotekniikka.*\
 -   2002 Käyttöohje- ja tekninen dokumentointi, Rastor Oy, Vantaa
 -   1999 Aliupseerikoulu, Laskuvarjojääkärikoulu, Utti
 -   1998 Ylioppilas, Hyrylän lukio
-:::
 
-::: {#tools}
 Kehitystyökalut ja -ympäristöt
--------------------------------
+------------------------------------------------
 
 -   Microsoft Visual Studio ja VS Code
 -   Microsoft Team Foundatation Server ja Git
@@ -102,8 +93,8 @@ Kehitystyökalut ja -ympäristöt
 -   Eclipse IDE
 -   AVR Studio IDE
 
-Ohjelmointikielet:
---------------------
+Ohjelmointikielet
+----------------------------
 
 -   C\# \[kohtalainen\] .NET, ASP.NET, Entity Framework
 -   Python \[kohtalainen\]
@@ -113,11 +104,11 @@ Ohjelmointikielet:
 -   Pascal \[perusteet, Casconin sisäinen ohjelmointikieli Caslan
     pohjautui Pascaliin\]
 -   HTML, CSS ja JavaScript \[perusteet\]
-:::
 
 
-Kielitaito:
-------------
+
+Kielitaito
+---------------
 - Suomi \[äidinkieli\]\
 - Englanti \[hyvä\]\
 - Ruotsi \[perusteet\]\
