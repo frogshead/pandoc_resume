@@ -16,7 +16,7 @@ Mikko Viitamäki
 
 >Keskinkertainen koodaaja joka kerää kehitysalustoja sekä keskeneräisiä projekteja.
 
->Ikämiestalentti.
+>Ikämiesjalkapalloilija.
 
 ----
 </div>
@@ -41,7 +41,7 @@ Työkokemus
 Tietoliikennelaitteiden proto- ja tuotantotestaussuunnittelu,
 vastuualueena Boundary Scan -testaussuunnittelu. Hyvä ymmärrys
 nykyaikaisesta elektroniikan ja tietoliikennelaitteiden
-tuotannontestauksesta sekä HW- että SW-tuotekehitysprosesseista.
+tuotantontestauksesta sekä HW- että SW-tuotekehitysprosesseista.
 
 **14.6.2004-19.11.2004 Tellabs, Espoo (Eilakaisla)**
 
@@ -54,22 +54,6 @@ myös testauslaitteiden ylläpitoa, kokoonpanoa sekä konfigurointia.
 Tietoliikennelaitteiden funktionaalinen testaus, vianhaku ja
 pintaliitoskomponenttien vaihtaminen.
 
-**26.5.2003-29.8.2003 Steris Finn-Aqua, Tuusula**
-
-Steris Finn-Aqua, komponenttimanuaalien päivittäminen ja vieminen PDM
-(Product Data Management) -tietokantajärjestelmään. Uusien manuaalien
-suunnittelu ja toteutus.
-
-**17.6.2002-30.8.2002, 14.5.2001-31.8.2001,17.5.2000- 25.8.2000 Matronic Oy, Tuusula**
-
-Matronic Oy:ssä työskentely ESD- ja juotostekniikan tuotteiden parissa.
-mm. myynti, markkinointi, tilausten käsittely, sekä yhteydenpito
-kotimaisiin ja ulkomaisiin päämiehiin ja asiakkaisiin. Tuotekoulutus
-sekä työhönohjaus.
-
-**6.4.6.4.-13.8.1999 Tukospar Oy, Kerava**
-
-Elintarvikkeiden varastointi ja keräily.
 </div>
 <div id="education">
 Koulutus ja kurssit
@@ -81,11 +65,8 @@ tuotantotekniikka.*\
 
 -   2017 Göpel partner days, Jena, Saksa
 -   2016 Göpel\'s Embedded JTAG solutions -kurssi, Jena, Saksa
--   2003 Järjestyksenvalvojakurssi, Tiimiakatemia, Jyväskylä
 -   7-12/2002 IT Carlow, Irlanti, vaihto-opiskelu, Institute of
     Technology, Carlow
--   2002 Tulityökurssi, Kymenlaakson ammattikorkeakoulu, Kotka
--   2002 Käyttöohje- ja tekninen dokumentointi, Rastor Oy, Vantaa
 -   1999 Aliupseerikoulu, Laskuvarjojääkärikoulu, Utti
 -   1998 Ylioppilas, Hyrylän lukio
 </div>

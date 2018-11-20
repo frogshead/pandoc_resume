@@ -45,7 +45,7 @@ Test software and test system development for Tellabs\'
 telecommunication devices. I was responsilble of Boundary-Scan
 development including Design for Testability analysis, test software and
 hardware development, co-operation with customer manufacturers and
-maintanance of the test solutions.
+maintenance of the test solutions.
 
 **14.6.2004-19.11.2004 Tellabs, Espoo (Eilakaisla)**
 
@@ -58,21 +58,6 @@ as well as test system maintenance, assembly and configuration.
 Functional testing, failure diagnostics and changing surface mount
 components.
 
-**26.5.2003-29.8.2003 Steris Finn-Aqua, Tuusula**
-
-Update component manuals and exporting into Product Data Management
-database. Design new manuals and deploy them.
-
-**17.6.2002-30.8.2002, 14.5.2001-31.8.2001,17.5.2000- 25.8.2000 Matronic Oy, Tuusula**
-
-As a summer trainee I worked with Electro Static Discharge products and
-with products related to soldering technology. As a all-a-round fellow I
-did some order management, marketing and I was in touch in local and
-international clients. I also gave some product training.
-
-**6.4.6.4.-13.8.1999 Tukospar Oy, Kerava**
-
-Summer trainee in a crosery wholesale.
 </div>
 <div id="education">
 Education and courses
@@ -83,13 +68,11 @@ Eletronics*\
 
 -   2017 Göpel partner days, Jena, Saksa
 -   2016 Göpel\'s Embedded JTAG solutions -kurssi, Jena, Saksa
--   7-12/2002 IT Carlow, Irlanti, Exchange Student, Institute of
-    Technology, Carlow
 -   2005-2012 Several in-house and third party courses for
-    Boundary-Scan, NI Test Stand, Tellabs 8600 product family.
--   2002 User manual and technical documentation, Rastor Oy, Vantaa
+    Boundary-Scan, NI TestStand, Tellabs 8600 product family.
+-   7-12/2002 IT Carlow, Ireland, Exchange Student, Institute of
+    Technology, Carlow
 -   1999 Military Service, Utti
--   1998 Finnish Matriculation Examination, Hyrylän lukio
 </div>
 <div id="tools">
 Programming and IT skills
