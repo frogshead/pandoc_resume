@@ -6,10 +6,6 @@ abstract: 'Story of my professional life'
 <div id="container">
 <div id="name">
 Mikko Viitamäki
-================
-</div> 
-
-<div id="about">
 ----
 
 >Kahden tyttären isä.

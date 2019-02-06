@@ -7,10 +7,6 @@ abstract: 'Story of my professional life'
 <div id="name">
 
 Mikko Viitamäki
-================
-</div> 
-
-<div id="about">
 ----
 
 >Father of two
