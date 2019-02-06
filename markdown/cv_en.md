@@ -5,6 +5,7 @@ abstract: 'Story of my professional life'
 
 <div id="container">
 <div id="name">
+
 Mikko Viitamäki
 ================
 </div> 
@@ -60,11 +61,12 @@ components.
 
 </div>
 <div id="education">
+
 Education and courses
 -----------------------
 
 *1999-2005 Kymenlaakso University of Applied Sciences, B.Sc from
-Eletronics*\
+Eletronics*
 
 -   2017 Göpel partner days, Jena, Saksa
 -   2016 Göpel\'s Embedded JTAG solutions -kurssi, Jena, Saksa
@@ -73,12 +75,14 @@ Eletronics*\
 -   7-12/2002 IT Carlow, Ireland, Exchange Student, Institute of
     Technology, Carlow
 -   1999 Military Service, Utti
+
 </div>
 <div id="tools">
+
 Programming and IT skills
 -------------------------------
 
-Familiar with Mac OS X, Ubuntu Linux and Windows XP/7. Some knowledge of
+Familiar with Mac OS X, Ubuntu Linux and Windows 10/7/XP. Some knowledge of
 embedded systems and embedded Linux, such as Buildroot, OpenWrt and Raspbian as
 well as Amazon Web Services.
 
@@ -112,8 +116,8 @@ Programming skills:
 
 Languages:
 -------------
-- Finnish \[Native\]\
-- English \[Good\]\
+- Finnish \[Native\]
+- English \[Good\]
 - Swedish \[Basics\]
 
 ----

@@ -101,6 +101,7 @@ Kielitaito:
 - Suomi \[äidinkieli\]\
 - Englanti \[hyvä\]\
 - Ruotsi \[perusteet\]\
+
 ----
 
 > [mikko.viitamaki@gmail.com](mailto:mikko.viitamaki@gmail.com) - [github](https://github.com/frogshead) - [twitter](https://twitter.com/freezing_point)
