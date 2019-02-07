@@ -2,8 +2,10 @@
 *.log
 *.pdf
 *.html
-resume.tex
+*.tex
 *.swo
 *.swp
 *.docx
 *.rtf
+output/*
+markdown/cover*
