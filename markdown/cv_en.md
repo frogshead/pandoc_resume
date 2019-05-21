@@ -64,8 +64,8 @@ Education and courses
 *1999-2005 Kymenlaakso University of Applied Sciences, B.Sc from
 Eletronics*
 
--   2017 Göpel partner days, Jena, Saksa
--   2016 Göpel\'s Embedded JTAG solutions -kurssi, Jena, Saksa
+-   2017 Göpel partner days, Jena, Germany
+-   2016 Göpel\'s Embedded JTAG solutions -kurssi, Jena, Germany
 -   2005-2012 Several in-house and third party courses for
     Boundary-Scan, NI TestStand, Tellabs 8600 product family.
 -   7-12/2002 IT Carlow, Ireland, Exchange Student, Institute of
@@ -89,13 +89,10 @@ IEEE 1149.1.
 I have used several development tools i.a.:
 
 -   Microsoft Visual Studio and VS Code
--   Microsoft Team Foundatation Server and Git
+-   Microsoft Team Foundatation Server, Azure Devops and Git
 -   MS SQL Server Management Studio and Reporting Services
 -   Göpel Cascon Galaxy Boundary Scan Development system
 -   National Instruments TestStand, CVI, LabView ja VisionBuilder
--   jEdit, VIM
--   Eclipse IDE
--   AVR Studio IDE
 
 Programming skills:
 --------------------
