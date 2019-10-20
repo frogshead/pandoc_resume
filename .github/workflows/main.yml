@@ -1,0 +1,12 @@
+name: A workflow for converting my CV to PDF 
+on: push
+
+jobs:
+  build:
+    name: Convert markdown to PDF 
+    runs-on: ubuntu-latest    
+    steps:
+    - uses: actions/checkout@master
+    - uses: ./action-a
+      env:
+        MY_NAME: "Minix"
