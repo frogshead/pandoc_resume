@@ -39,9 +39,9 @@ ENV APP_NAME=resume
 
 # RUN make clean
 
-# ADD entrypoint.sh /home/entrypoint.sh
-# RUN touch  /home/README.txt
-# RUN chmod +x /home/entrypoint.sh
+ADD entrypoint.sh /home/entrypoint.sh
+RUN touch  /home/README.txt
+RUN chmod +x /home/entrypoint.sh
 
 # ENTRYPOINT ["/home/entrypoint.sh"]
 # RUN mkdir /tmp/app
