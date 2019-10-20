@@ -2,13 +2,9 @@
 tags: [cv, resume]
 abstract: 'Story of my professional life'
 ...
-
-<div id="container">
-<div id="name">
-
+<div id="container"><div id="name">
 Mikko Viitamäki
 ============
-
 ----
 
 >Kahden tyttären isä.
@@ -19,11 +15,10 @@ Mikko Viitamäki
 
 ----
 </div>
-
 <div id="experience">
-
 Työkokemus
 -----------------
+
 **26.8.2019 - Rocla Oy, Järvenpää, Testiautomaatioinsinööri** 
 
 

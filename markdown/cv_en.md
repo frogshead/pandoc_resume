@@ -2,13 +2,9 @@
 tags: [cv, resume]
 abstract: 'Story of my professional life'
 ...
-
-<div id="container">
-<div id="name">
-
+<div id="container"><div id="name">
 Mikko Viitamäki
 ============
-
 ----
 
 >Father of two
@@ -18,9 +14,7 @@ Mikko Viitamäki
 >Senior football player.
 
 ----
-</div>
-
-<div id="experience">
+</div><div id="experience">
 
 Experience
 -----------
