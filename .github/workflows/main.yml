@@ -13,10 +13,8 @@ jobs:
     - name: Create PDF as artifact
       uses: actions/upload-artifact@v1
       with:
-          - name: Finnish CV
-            path: output/cv.pdf
-          - name: English CV
-            path: output/cv_en.pdf
-
+          name: Finnish CV
+          path: output/cv.pdf,cv_en.pdf,
+          
 
     
