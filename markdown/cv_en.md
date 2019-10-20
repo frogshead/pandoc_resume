@@ -7,6 +7,8 @@ abstract: 'Story of my professional life'
 <div id="name">
 
 Mikko Viitamäki
+============
+
 ----
 
 >Father of two
@@ -19,10 +21,15 @@ Mikko Viitamäki
 </div>
 
 <div id="experience">
+
 Experience
 -----------
 
-**4.2.2013 - Enics Oy, Vantaa/Lohja, Senior Test Engineer**
+**26.8.2019 - Rocla Oy, Järvenpää, Test Automation Engineer** 
+Software development for Robot Framework
+
+
+**4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
 
 Software development for test data collection system. Store and analyze
 electronics manufacturing tests from In-House and third party testers.
