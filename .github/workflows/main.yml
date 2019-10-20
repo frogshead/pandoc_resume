@@ -8,8 +8,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@master
+    - name: Build CV as PDF
       uses: ./action-a
-    - name: Create PDF
+    - name: Create PDF as artifact
       uses: actions/upload-artifact@v1
       with:
           name: cv
