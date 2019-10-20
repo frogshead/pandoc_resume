@@ -6,7 +6,13 @@ jobs:
     name: Convert markdown to PDF 
     runs-on: ubuntu-latest    
     steps:
-    - uses: actions/checkout@master
-    - uses: ./action-a
-      env:
-        MY_NAME: "Minix"
+    - name: Checkout repository
+      uses: actions/checkout@master
+      uses: ./action-a
+    - name: Create PDF
+      uses: actions/upload-artifact@v1
+      with:
+          name: cv
+          path: output/cv.pdf
+
+    
