@@ -1,4 +1,3 @@
-<div id="container"><div id="name">
 Mikko Viitamäki
 ============
 ----
