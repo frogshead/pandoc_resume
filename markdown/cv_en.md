@@ -15,6 +15,7 @@ Experience
 -----------
 
 **26.8.2019 - Rocla Oy, Järvenpää, Test Automation Engineer** 
+
 Software development for Robot Framework
 
 
