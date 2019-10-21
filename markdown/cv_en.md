@@ -1,7 +1,3 @@
----
-tags: [cv, resume]
-abstract: 'Story of my professional life'
-...
 <div id="container"><div id="name">
 Mikko Viitamäki
 ============
