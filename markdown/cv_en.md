@@ -2,7 +2,7 @@ Mikko Viitamäki
 ============
 ----
 
->Father of two
+>Father of three
 
 >Average coder who has bunch of development boards, unfinished projects and limited amount of time.
 
@@ -16,7 +16,7 @@ Experience
 
 **26.8.2019 - Rocla Oy, Järvenpää, Test Automation Engineer** 
 
-Software development for Robot Framework
+Software development using Python and Robot Framework.
 
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
@@ -61,8 +61,9 @@ Education and courses
 *1999-2005 Kymenlaakso University of Applied Sciences, B.Sc from
 Eletronics*
 
+-   2020 Robocon, Helsinki, Finland
 -   2017 Göpel partner days, Jena, Germany
--   2016 Göpel\'s Embedded JTAG solutions -kurssi, Jena, Germany
+-   2016 Göpel\'s Embedded JTAG solutions course, Jena, Germany
 -   2005-2012 Several in-house and third party courses for
     Boundary-Scan, NI TestStand, Tellabs 8600 product family.
 -   7-12/2002 IT Carlow, Ireland, Exchange Student, Institute of
@@ -90,6 +91,8 @@ I have used several development tools i.a.:
 -   MS SQL Server Management Studio and Reporting Services
 -   Göpel Cascon Galaxy Boundary Scan Development system
 -   National Instruments TestStand, CVI, LabView ja VisionBuilder
+-   Robot Framework
+-   Jenkins
 
 Programming skills:
 --------------------
