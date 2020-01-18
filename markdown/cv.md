@@ -7,7 +7,7 @@ Mikko Viitamäki
 ============
 ----
 
->Kahden tyttären isä.
+>Kolmen tyttären isä.
 
 >Keskinkertainen koodaaja joka kerää kehitysalustoja sekä keskeneräisiä projekteja.
 
@@ -19,7 +19,9 @@ Mikko Viitamäki
 Työkokemus
 -----------------
 
-**26.8.2019 - Rocla Oy, Järvenpää, Testiautomaatioinsinööri** 
+**26.8.2019 - Rocla Oy, Järvenpää, Testiautomaatioinsinööri**
+
+-   Testiautomaatiokehitys: Python, Robot Framework, Jenkins
 
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
@@ -59,6 +61,7 @@ Koulutus ja kurssit
 Elektroniikan koulutusohjelma, pääaineena elektroniikan
 tuotantotekniikka.*\
 
+-   2020 Robocon, Helsinki
 -   2017 Göpel partner days, Jena, Saksa
 -   2016 Göpel\'s Embedded JTAG solutions -kurssi, Jena, Saksa
 -   7-12/2002 IT Carlow, Irlanti, vaihto-opiskelu, Institute of
@@ -75,6 +78,8 @@ Kehitystyökalut ja -ympäristöt
 -   MS SQL Server Management Studio ja Reporting Services
 -   Göpel Cascon Galaxy Boundary Scan -testaussuunnitteluohjelmisto
 -   National Instruments TestStand, CVI, LabView ja VisionBuilder
+-   Jenkins
+-   Robot Framework
 -   jEdit ja VIM
 -   Eclipse IDE
 -   AVR Studio IDE
