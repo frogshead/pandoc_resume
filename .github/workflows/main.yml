@@ -19,8 +19,8 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
           name: English CV
-          path: output/cv_en.pdf
-    - name: GitHub Releases
-      uses: fnkr/github-action-ghr@v1.3
+          path: |
+            output/cv_en.pdf
+            output/cv.pdf
 
     
