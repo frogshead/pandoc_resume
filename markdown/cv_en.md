@@ -16,7 +16,7 @@ Experience
 
 **26.8.2019 - Rocla Oy, Järvenpää, Test Automation Engineer** 
 
-Software development using Python and Robot Framework.
+Software development using Python, Robot Framework and Jenkins.
 
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
