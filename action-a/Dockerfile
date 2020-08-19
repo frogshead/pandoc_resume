@@ -35,6 +35,6 @@ ADD entrypoint.sh /entrypoint.sh
 
 #ENTRYPOINT ["/entrypoint.sh"]
 RUN pwd 
-RUN ls -la
+RUN ls -la /home
 RUN make pdf
 RUN echo "All done"
