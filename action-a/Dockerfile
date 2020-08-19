@@ -34,5 +34,7 @@ ADD entrypoint.sh /entrypoint.sh
 # RUN chmod +x /entrypoint.sh
 
 #ENTRYPOINT ["/entrypoint.sh"]
+RUN pwd 
+RUN ls -la
 RUN make pdf
 RUN echo "All done"
