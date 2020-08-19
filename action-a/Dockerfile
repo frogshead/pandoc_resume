@@ -31,10 +31,7 @@ ENV APP_NAME=resume
 
 ADD entrypoint.sh /entrypoint.sh
 
-# RUN chmod +x /entrypoint.sh
+RUN chmod +x /entrypoint.sh
 
-#ENTRYPOINT ["/entrypoint.sh"]
-RUN ls -la /home/app
-RUN cd /home/app
-RUN make pdf
+ENTRYPOINT ["/entrypoint.sh"]
 RUN echo "All done"
