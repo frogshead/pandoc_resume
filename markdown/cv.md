@@ -11,18 +11,15 @@ Mikko Viitamäki
 
 >Keskinkertainen koodaaja joka kerää kehitysalustoja sekä keskeneräisiä projekteja.
 
->Ikämiesjalkapalloilija.
-
 ----
 </div>
 <div id="experience">
 Työkokemus
 -----------------
 
-**26.8.2019 - Rocla Oy, Järvenpää, Testiautomaatioinsinööri**
+**26.8.2019 - Mitsubishi Logisnext Oy, Järvenpää, Testiautomaatioinsinööri**
 
 -   Testiautomaatiokehitys: Python, Robot Framework, Jenkins
-
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
 
@@ -74,15 +71,12 @@ Kehitystyökalut ja -ympäristöt
 -------------------------------
 
 -   Microsoft Visual Studio ja VS Code
--   Microsoft Team Foundatation Server ja Git
+-   Atlassian 
 -   MS SQL Server Management Studio ja Reporting Services
 -   Göpel Cascon Galaxy Boundary Scan -testaussuunnitteluohjelmisto
 -   National Instruments TestStand, CVI, LabView ja VisionBuilder
 -   Jenkins
 -   Robot Framework
--   jEdit ja VIM
--   Eclipse IDE
--   AVR Studio IDE
 
 Ohjelmointikielet:
 --------------------
