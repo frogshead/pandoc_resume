@@ -1,100 +1,121 @@
-Johnny Coder
+Mikko Viitamäki
 ============
-
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>Father of three
+
+>Average coder who has bunch of development boards, unfinished projects and limited amount of time.
+
+>Senior football player.
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+</div><div id="experience">
 
 Experience
-----------
+-----------
 
-**Your Most Recent Work Experience:**
+**26.8.2019 - Mitsubishi Logisnext Europe, Järvenpää, DevSecOps Team Lead**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+DevSecOps team lead responsible for test automation, cloud infrastructure (Azure)
+and AGV fleet management software development. Tools and technologies include
+Python, Robot Framework, Playwright, Jenkins, Docker, Kubernetes, Terraform,
+Bicep and Argo CD.
 
-* First item
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
 
-**That Other Job You Had**
+Software development for test data collection system. Store and analyze
+electronics manufacturing tests from In-House and third party testers.
+Software development mostly done using Microsoft\'s tools like C\#,
+.NET, ASP.NET, Entity Framework and Reporting Services.
 
-Also with a short description.
+Instrument Drivers (C\# / .NET) Functional and Boundary-Scan test
+development. (NI TestStand, NI LabView, NI VisionBuilder, Göpel Cascon
+Galaxy)
 
-Technical Experience
+Functional and Boundary-Scan test software development for electronic
+devices.
+
+**22.11.2004-19.5.2012 Tellabs, Espoo, Senior Test Engineer**
+
+Test software and test system development for Tellabs\'
+telecommunication devices. I was responsilble of Boundary-Scan
+development including Design for Testability analysis, test software and
+hardware development, co-operation with customer manufacturers and
+maintenance of the test solutions.
+
+**14.6.2004-19.11.2004 Tellabs, Espoo (Eilakaisla)**
+
+Functional and Boundary-Scan testing for the protypes of the
+telecommunication boards. I did some failure diagnostics and repairing
+as well as test system maintenance, assembly and configuration.
+
+**5.3.2004-11.6.2004 Elcoteq Tallinna, Espoo Business Unit (Eilakaisla)**
+
+Functional testing, failure diagnostics and changing surface mount
+components.
+
+</div><div id="education">
+
+Education and courses
+-----------------------
+
+*1999-2005 Kymenlaakso University of Applied Sciences, B.Sc from
+Eletronics*
+
+-   2020 Robocon, Helsinki, Finland
+-   2017 Göpel partner days, Jena, Germany
+-   2016 Göpel\'s Embedded JTAG solutions course, Jena, Germany
+-   2005-2012 Several in-house and third party courses for
+    Boundary-Scan, NI TestStand, Tellabs 8600 product family.
+-   7-12/2002 IT Carlow, Ireland, Exchange Student, Institute of
+    Technology, Carlow
+-   1999 Military Service, Utti
+
+</div><div id="tools">
+
+Programming and IT skills
+-------------------------------
+
+Familiar with Ubuntu Linux, Windows and Azure cloud platform. Some knowledge of
+embedded systems and embedded Linux, such as Buildroot, OpenWrt and Raspbian.
+
+I am proficient with Boundary-Scan test method, Göpel\'s development
+tools for Boudnary-Scan and I know well related standards such as
+IEEE 1149.1.
+
+I have used several development tools i.a.:
+
+-   Microsoft Visual Studio and VS Code
+-   Azure DevOps, Git and BitBucket
+-   Docker, Kubernetes, Terraform, Bicep and Argo CD
+-   Grafana and InfluxDB
+-   Playwright and Robot Framework
+-   Jenkins
+-   MS SQL Server Management Studio and Reporting Services
+-   Göpel Cascon Galaxy Boundary Scan Development system
+-   National Instruments TestStand, CVI, LabView ja VisionBuilder
+
+Programming skills:
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+-   Python \[intermediate\]
+-   C\# \[intermediate\] .NET, ASP.NET, Entity Framework
+-   SQL \[intermediate\]
+-   C \[intermediate\]
+-   Rust \[basics\]
+-   Java \[basics\]
+-   HTML, CSS and JavaScript \[basics\]
+</div>
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Languages:
+-------------
+- Finnish \[Native\]
+- English \[Good\]
+- Swedish \[Basics\]
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> [mikko.viitamaki@gmail.com](mailto:mikko.viitamaki@gmail.com) - [github](https://github.com/frogshead) - [mastodon](https://techhub.social/@Minix)
+</div>
