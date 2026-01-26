@@ -13,8 +13,7 @@ pdf: init
 			--from markdown --to context \
 			--variable papersize=A4 \
 			--output $(OUT_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
-		context $(OUT_DIR)/$$FILE_NAME.tex \
-			--result=$(OUT_DIR)/$$FILE_NAME.pdf > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1; \
+		(cd $(OUT_DIR) && context $$FILE_NAME.tex > context_$$FILE_NAME.log 2>&1); \
 	done
 
 html: init
