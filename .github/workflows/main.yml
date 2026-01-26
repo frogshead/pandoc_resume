@@ -17,4 +17,5 @@ jobs:
           path: |
             output/cv_en.pdf
             output/cv.pdf
+            output/resume.pdf
 
