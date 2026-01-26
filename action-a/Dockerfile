@@ -23,6 +23,7 @@ RUN apt-get remove -y wget && \
 
 ENV APP_NAME=resume
 
+WORKDIR /github/workspace
 
 ADD entrypoint.sh /entrypoint.sh
 
