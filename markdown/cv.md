@@ -17,9 +17,12 @@ Mikko Viitamäki
 Työkokemus
 -----------------
 
-**26.8.2019 - Mitsubishi Logisnext Oy, Järvenpää, Testiautomaatioinsinööri**
+**26.8.2019 - Mitsubishi Logisnext Europe, Järvenpää, DevSecOps-tiimin vetäjä**
 
--   Testiautomaatiokehitys: Python, Robot Framework, Jenkins
+-   DevSecOps-tiimin vetäjä: testiautomaatio, pilvi-infrastruktuuri (Azure)
+    ja AGV-laivastonhallintaohjelmiston kehitys.
+-   Teknologiat: Python, Robot Framework, Playwright, Jenkins, Docker,
+    Kubernetes, Terraform, Bicep ja Argo CD.
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
 
@@ -71,23 +74,24 @@ Kehitystyökalut ja -ympäristöt
 -------------------------------
 
 -   Microsoft Visual Studio ja VS Code
--   Atlassian 
+-   Azure DevOps, Git ja BitBucket
+-   Docker, Kubernetes, Terraform, Bicep ja Argo CD
+-   Grafana ja InfluxDB
+-   Playwright ja Robot Framework
+-   Jenkins
 -   MS SQL Server Management Studio ja Reporting Services
 -   Göpel Cascon Galaxy Boundary Scan -testaussuunnitteluohjelmisto
 -   National Instruments TestStand, CVI, LabView ja VisionBuilder
--   Jenkins
--   Robot Framework
 
 Ohjelmointikielet:
 --------------------
 
--   C\# \[kohtalainen\] .NET, ASP.NET, Entity Framework
 -   Python \[kohtalainen\]
+-   C\# \[kohtalainen\] .NET, ASP.NET, Entity Framework
 -   SQL \[kohtalainen\]
 -   C \[kohtalainen\]
+-   Rust \[perusteet\]
 -   Java \[perusteet\]
--   Pascal \[perusteet, Casconin sisäinen ohjelmointikieli Caslan
-    pohjautui Pascaliin\]
 -   HTML, CSS ja JavaScript \[perusteet\]
 </div>
 
@@ -99,5 +103,5 @@ Kielitaito:
 
 ----
 
-> [mikko.viitamaki@gmail.com](mailto:mikko.viitamaki@gmail.com) - [github](https://github.com/frogshead) - [twitter](https://twitter.com/freezing_point)
+> [mikko.viitamaki@gmail.com](mailto:mikko.viitamaki@gmail.com) - [github](https://github.com/frogshead) - [mastodon](https://techhub.social/@Minix)
 </div>

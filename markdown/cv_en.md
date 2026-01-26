@@ -14,9 +14,12 @@ Mikko Viitamäki
 Experience
 -----------
 
-**26.8.2019 - Rocla Oy, Järvenpää, Test Automation Engineer** 
+**26.8.2019 - Mitsubishi Logisnext Europe, Järvenpää, DevSecOps Team Lead**
 
-Software development using Python, Robot Framework and Jenkins.
+DevSecOps team lead responsible for test automation, cloud infrastructure (Azure)
+and AGV fleet management software development. Tools and technologies include
+Python, Robot Framework, Playwright, Jenkins, Docker, Kubernetes, Terraform,
+Bicep and Argo CD.
 
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
@@ -76,9 +79,8 @@ Eletronics*
 Programming and IT skills
 -------------------------------
 
-Familiar with Mac OS X, Ubuntu Linux and Windows 10/7/XP. Some knowledge of
-embedded systems and embedded Linux, such as Buildroot, OpenWrt and Raspbian as
-well as Amazon Web Services.
+Familiar with Ubuntu Linux, Windows and Azure cloud platform. Some knowledge of
+embedded systems and embedded Linux, such as Buildroot, OpenWrt and Raspbian.
 
 I am proficient with Boundary-Scan test method, Göpel\'s development
 tools for Boudnary-Scan and I know well related standards such as
@@ -87,23 +89,25 @@ IEEE 1149.1.
 I have used several development tools i.a.:
 
 -   Microsoft Visual Studio and VS Code
--   Microsoft Team Foundatation Server, Azure Devops and Git
+-   Azure DevOps, Git and BitBucket
+-   Docker, Kubernetes, Terraform, Bicep and Argo CD
+-   Grafana and InfluxDB
+-   Playwright and Robot Framework
+-   Jenkins
 -   MS SQL Server Management Studio and Reporting Services
 -   Göpel Cascon Galaxy Boundary Scan Development system
 -   National Instruments TestStand, CVI, LabView ja VisionBuilder
--   Robot Framework
--   Jenkins
 
 Programming skills:
 --------------------
 
--   C\# \[intermediate\] .NET, ASP.NET, Entity Framework
 -   Python \[intermediate\]
+-   C\# \[intermediate\] .NET, ASP.NET, Entity Framework
 -   SQL \[intermediate\]
 -   C \[intermediate\]
+-   Rust \[basics\]
 -   Java \[basics\]
--   Pascal \[basics\]
--   HTML, CSS and javascript\[basics\]
+-   HTML, CSS and JavaScript \[basics\]
 </div>
 
 
@@ -115,5 +119,5 @@ Languages:
 
 ----
 
-> [mikko.viitamaki@gmail.com](mailto:mikko.viitamaki@gmail.com) - [github](https://github.com/frogshead) - [twitter](https://twitter.com/freezing_point)
+> [mikko.viitamaki@gmail.com](mailto:mikko.viitamaki@gmail.com) - [github](https://github.com/frogshead) - [mastodon](https://techhub.social/@Minix)
 </div>
