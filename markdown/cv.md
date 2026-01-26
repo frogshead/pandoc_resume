@@ -21,8 +21,6 @@ Työkokemus
 
 -   DevSecOps-tiimin vetäjä: testiautomaatio, pilvi-infrastruktuuri (Azure)
     ja AGV-laivastonhallintaohjelmiston kehitys.
--   Teknologiat: Python, Robot Framework, Playwright, Jenkins, Docker,
-    Kubernetes, Terraform, Bicep ja Argo CD.
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
 
@@ -76,12 +74,10 @@ Kehitystyökalut ja -ympäristöt
 -   Microsoft Visual Studio ja VS Code
 -   Azure DevOps, Git ja BitBucket
 -   Docker, Kubernetes, Terraform, Bicep ja Argo CD
--   Grafana ja InfluxDB
--   Playwright ja Robot Framework
+-   Grafana, InfluxDB, Playwright ja Robot Framework
 -   Jenkins
 -   MS SQL Server Management Studio ja Reporting Services
--   Göpel Cascon Galaxy Boundary Scan -testaussuunnitteluohjelmisto
--   National Instruments TestStand, CVI, LabView ja VisionBuilder
+-   Göpel Cascon Galaxy, NI TestStand, CVI, LabView ja VisionBuilder
 
 Ohjelmointikielet:
 --------------------
