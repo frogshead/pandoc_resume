@@ -9,7 +9,6 @@ Mikko Viitamäki
 >Senior football player.
 
 ----
-</div><div id="experience">
 
 Experience
 -----------

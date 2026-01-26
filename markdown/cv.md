@@ -7,7 +7,7 @@ Mikko Viitamäki
 >Keskinkertainen koodaaja joka kerää kehitysalustoja sekä keskeneräisiä projekteja.
 
 ----
-</div><div id="experience">
+
 Työkokemus
 -----------------
 

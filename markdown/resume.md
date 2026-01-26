@@ -9,17 +9,17 @@ Mikko Viitamäki
 >Senior football player.
 
 ----
-</div><div id="experience">
 
 Experience
 -----------
 
 **26.8.2019 - Mitsubishi Logisnext Europe, Järvenpää, DevSecOps Team Lead**
 
-DevSecOps team lead responsible for test automation, cloud infrastructure (Azure)
-and AGV fleet management software development. Tools and technologies include
+Product owner of DevSecOps team - responsible for test automation, cloud infrastructure (Azure) and Automated Guided Vehicle (AGV) fleet management software quality assurance. Tools and technologies include
 Python, Robot Framework, Playwright, Jenkins, Docker, Kubernetes, Terraform,
 Bicep and Argo CD.
+
+Atlasssian stack (Jira, Confluence, Bitbucket) is used for project management and documentation.
 
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
@@ -77,7 +77,7 @@ Eletronics*
 Programming and IT skills
 -------------------------------
 
-Familiar with Ubuntu Linux, Windows and Azure cloud platform. Some knowledge of
+Familiar with Linux, Windows and Azure cloud platform. Some knowledge of
 embedded systems and embedded Linux, such as Buildroot, OpenWrt and Raspbian.
 
 I am proficient with Boundary-Scan test method, Göpel\'s development
