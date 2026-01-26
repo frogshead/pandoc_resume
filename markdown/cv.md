@@ -1,8 +1,3 @@
----
-tags: [cv, resume]
-abstract: 'Story of my professional life'
-...
-<div id="container"><div id="name">
 Mikko Viitamäki
 ============
 ----
@@ -12,8 +7,7 @@ Mikko Viitamäki
 >Keskinkertainen koodaaja joka kerää kehitysalustoja sekä keskeneräisiä projekteja.
 
 ----
-</div>
-<div id="experience">
+</div><div id="experience">
 Työkokemus
 -----------------
 
@@ -50,8 +44,7 @@ myös testauslaitteiden ylläpitoa, kokoonpanoa sekä konfigurointia.
 Tietoliikennelaitteiden funktionaalinen testaus, vianhaku ja
 pintaliitoskomponenttien vaihtaminen.
 
-</div>
-<div id="education">
+</div><div id="education">
 Koulutus ja kurssit
 --------------------
 
@@ -66,8 +59,7 @@ tuotantotekniikka.*\
     Technology, Carlow
 -   1999 Aliupseerikoulu, Laskuvarjojääkärikoulu, Utti
 -   1998 Ylioppilas, Hyrylän lukio
-</div>
-<div id="tools">
+</div><div id="tools">
 Kehitystyökalut ja -ympäristöt
 -------------------------------
 
