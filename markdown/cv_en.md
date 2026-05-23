@@ -13,9 +13,9 @@ Mikko Viitamäki
 Experience
 -----------
 
-**26.8.2019 - Mitsubishi Logisnext Europe, Järvenpää, DevSecOps Team Lead**
+**26.8.2019 - Mitsubishi Logisnext Europe, Järvenpää, DevSecOps Product Owner**
 
-DevSecOps team lead responsible for test automation, cloud infrastructure (Azure)
+DevSecOps product owner responsible for test automation, cloud infrastructure (Azure)
 and AGV fleet management software development. Tools and technologies include
 Python, Robot Framework, Playwright, Jenkins, Docker, Kubernetes, Terraform,
 Bicep and Argo CD.
@@ -104,7 +104,7 @@ Programming skills:
 -   C\# \[intermediate\] .NET, ASP.NET, Entity Framework
 -   SQL \[intermediate\]
 -   C \[intermediate\]
--   Rust \[basics\]
+-   Rust \[intermediate\]
 -   Java \[basics\]
 -   HTML, CSS and JavaScript \[basics\]
 </div>

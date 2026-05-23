@@ -11,9 +11,9 @@ Mikko Viitamäki
 Työkokemus
 -----------------
 
-**26.8.2019 - Mitsubishi Logisnext Europe, Järvenpää, DevSecOps-tiimin vetäjä**
+**26.8.2019 - Mitsubishi Logisnext Europe, Järvenpää, DevSecOps Product Owner**
 
--   DevSecOps-tiimin vetäjä: testiautomaatio, pilvi-infrastruktuuri (Azure)
+-   DevSecOps Product Owner: testiautomaatio, pilvi-infrastruktuuri (Azure)
     ja AGV-laivastonhallintaohjelmiston kehitys.
 
 **4.2.2013 - 16.8.2019 Enics Oy, Vantaa/Lohja, Senior Test Engineer**
@@ -78,7 +78,7 @@ Ohjelmointikielet:
 -   C\# \[kohtalainen\] .NET, ASP.NET, Entity Framework
 -   SQL \[kohtalainen\]
 -   C \[kohtalainen\]
--   Rust \[perusteet\]
+-   Rust \[kohtalainen\]
 -   Java \[perusteet\]
 -   HTML, CSS ja JavaScript \[perusteet\]
 </div>

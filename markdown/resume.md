@@ -6,7 +6,7 @@ Mikko Viitamäki
 
 >Average coder who has bunch of development boards, unfinished projects and limited amount of time.
 
->Senior football player.
+>Senior ~~football~~ padel player.
 
 ----
 
@@ -103,7 +103,7 @@ Programming skills:
 -   C\# \[intermediate\] .NET, ASP.NET, Entity Framework
 -   SQL \[intermediate\]
 -   C \[intermediate\]
--   Rust \[basics\]
+-   Rust \[intermediate\]
 -   Java \[basics\]
 -   HTML, CSS and JavaScript \[basics\]
 </div>
