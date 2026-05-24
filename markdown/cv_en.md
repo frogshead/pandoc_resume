@@ -116,7 +116,10 @@ Languages:
 - English \[Good\]
 - Swedish \[Basics\]
 
-----
-
-> [mikko.viitamaki@gmail.com](mailto:mikko.viitamaki@gmail.com) - [github](https://github.com/frogshead) - [mastodon](https://techhub.social/@Minix)
+```{=html}
+<hr>
+<blockquote>
+<a href="mailto:mikko.viitamaki@gmail.com">mikko.viitamaki@gmail.com</a> - <a href="https://github.com/frogshead">github</a> - <a href="https://techhub.social/@Minix">mastodon</a>
+</blockquote>
+```
 </div>

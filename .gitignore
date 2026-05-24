@@ -9,3 +9,4 @@
 *.rtf
 output/*
 markdown/cover*
+.claude/

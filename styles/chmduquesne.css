@@ -20,12 +20,12 @@ body {
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    color: #757575;
+    color: var(--title-color, #757575);
     text-align:center;
     margin-bottom:15px;
 }
 h1:hover {
-    background-color: #757575;
+    background-color: var(--title-color, #757575);
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
@@ -33,7 +33,7 @@ h1:hover {
 /* Titles of categories */
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
+    color: var(--section-color, #397249);
 }
 /* There is a bar just before each category */
 h2:before {
@@ -43,10 +43,10 @@ h2:before {
     width: 16%;
     height: 10px;
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
+    background-color: var(--rule-color, #9CB770);
 }
 h2:hover {
-    background-color: #397249;
+    background-color: var(--section-color, #397249);
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
@@ -74,10 +74,10 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    color: var(--section-color, #397249);
 }
 a:hover, a:active {
-    background-color: #397249;
+    background-color: var(--section-color, #397249);
     color: #FFFFFF;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;
@@ -85,7 +85,7 @@ a:hover, a:active {
 
 /* Horizontal separators */
 hr {
-    color: #A6A6A6;
+    color: var(--hr-color, #A6A6A6);
 }
 
 table {
