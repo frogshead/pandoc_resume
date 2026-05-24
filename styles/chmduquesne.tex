@@ -15,18 +15,26 @@ $if(mainlang)$
 $endif$
 
 \setupcolor[hex]
-\definecolor[titlegrey][h=757575]
-\definecolor[sectioncolor][h=397249]
-\definecolor[rulecolor][h=9cb770]
+\definecolor[titlegrey][h=$if(titlecolor)$$titlecolor$$else$757575$endif$]
+\definecolor[sectioncolor][h=$if(sectioncolor)$$sectioncolor$$else$397249$endif$]
+\definecolor[rulecolor][h=$if(rulecolor)$$rulecolor$$else$9cb770$endif$]
 
 % Enable hyperlinks
 \setupinteraction[state=start, color=sectioncolor]
 
+% Contact line, centered in the reserved footer band (see \setuplayout footer=)
+\def\ResumeFooter{%
+  \goto{mikko.viitamaki@gmail.com}[url(mailto:mikko.viitamaki@gmail.com)]\space--\space
+  \goto{github}[url(https://github.com/frogshead)]\space--\space
+  \goto{mastodon}[url(https://techhub.social/@Minix)]}
+\setupfooter[style=\tfx, color=sectioncolor, align=middle]
+\setupfootertexts[{\ResumeFooter}]
+
 \setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
 \setuplayout    [width=middle, height=middle,
                  backspace=20mm, cutspace=0mm,
-                 topspace=10mm, bottomspace=20mm,
-                 header=0mm, footer=0mm]
+                 topspace=10mm, bottomspace=12mm,
+                 header=0mm, footer=12mm]
 
 %\setuppagenumbering[location={footer,center}]
 
